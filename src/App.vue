@@ -1,5 +1,5 @@
 <template>
-  <section font-inter>
+  <section class="font-inter">
     <div class="flex flex-col items-center sm:flex-row">
       <base-button
         class="sm:ml-10 xl:ml-20"
